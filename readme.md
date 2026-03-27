@@ -29,6 +29,7 @@ I’m passionate about bridging the gap between raw data and business value. Rig
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Data & Visualization**
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
@@ -46,6 +47,3 @@ I’m passionate about bridging the gap between raw data and business value. Rig
 ### 📫 Connect with me
 * 📍 Currently in: **Normandy, France** / **Resistencia, Argentina**
 * 🎧 Listening to: **Argentine Rock & Indie**
-
----
-*“Building solid bridges between technical infrastructure and business value.”*
