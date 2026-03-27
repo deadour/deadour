@@ -1,4 +1,4 @@
-# Hi, I'm Eduardo (Edu) 👋
+# Hi, I'm Eduardo 👋
 
 I'm a **Systems Engineering student** in my final year at **UTN (Argentina)**, currently leveling up through an academic exchange at **CESI École d’Ingénieurs (France)**. 
 
