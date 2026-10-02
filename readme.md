@@ -1,49 +1,83 @@
 # Hi, I'm Eduardo 👋
 
-I'm a **Systems Engineering student** in my final year at **UTN (Argentina)**, currently leveling up through an academic exchange at **CESI École d’Ingénieurs (France)**. 
+I'm a final-year **Systems Engineering student at UTN, Argentina**, with professional experience building software, data pipelines, and internal systems for an industrial company.
 
-I’m passionate about bridging the gap between raw data and business value. Right now, I’m deep-diving into **Data Science** and **IoT**, while simultaneously leading the entire IT infrastructure for an industrial machinery company.
+In 2026, I completed an academic exchange at **CESI École d’Ingénieurs in France**, where I studied Data Science, Artificial Intelligence, IoT, and data-related engineering topics.
 
----
-
-### 🚀 What I'm up to
-* 🎓 **Final Year:** Wrapping up my degree at UTN Resistencia.
-* 🇫🇷 **International Experience:** Studying at CESI (Rouen/Saint-Étienne-du-Rouvray) with a focus on smart systems and data architectures.
-* 💼 **IT & Systems Lead at BIAMAQ:** I manage the full stack—from SQL Server databases and ETL pipelines to building React/Django apps that keep the company running.
-* 📡 **IoT Projects:** Recently built a real-time noise monitoring system using ESP32, ESPHome, and Grafana.
+I currently work at **BIAMAQ**, developing and maintaining systems that support real business operations, while building a stronger specialization in **Data Engineering**.
 
 ---
 
-### 🛠 Tech Stack
+## What I'm working on
 
-**Languages & Core**
+- 🎓 Finishing my Systems Engineering degree at UTN
+- 💼 Building and maintaining internal systems at BIAMAQ
+- 📊 Working with SQL Server, ETL processes, reporting, and business data
+- 🐍 Developing backend services and automation with Python and Django
+- ⚛️ Building web applications with React and TypeScript
+- 🏗️ Deepening my skills in Data Engineering and modern data architectures
+
+---
+
+## Tech Stack
+
+**Data & Backend**
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Frameworks & Tools**
+![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
+
+**Frontend & Development**
+
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 **Data & Visualization**
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
+
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black)
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
 
 ---
 
-### 📈 Some things I've built
-* **Industrial ERP Modules:** Re-engineered rental and technical service processes using Django/React.
-* **Data Warehouse:** Implemented ETL processes to centralize multi-branch data for real-time BI.
-* **FocusFlow (IoT):** A privacy-first noise monitoring device using ESP32-S3 and InfluxDB/Grafana.
-* **Automated Logistics:** Developed AppSheet solutions and WooCommerce API integrations to sync inventory in real-time.
+## Projects
+
+### 🎧 Last.fm Data Platform
+An end-to-end Data Engineering project built around my personal Last.fm listening history.
+
+Currently building the ingestion layer with **Python**, incremental loading, raw Bronze storage, retry handling, and resumable historical backfills.
+
+Future stages will cover transformation, data modeling, analytics, and cloud/lakehouse technologies.
+
+### 🏋️ Dynamo
+A mobile-first workout tracking application for logging workouts, routines, body weight, and training progress.
+
+Built with **Django REST Framework, React, TypeScript, PostgreSQL, and Docker**.
+
+### 🏭 Systems & Data at BIAMAQ
+Development and maintenance of internal systems for an industrial machinery company.
+
+My work includes **SQL Server, ETL processes, reporting, APIs, automation, and Django/React applications** used in day-to-day operations.
+
+### 📡 IoT / FocusFlow
+Built a real-time noise monitoring system using **ESP32, ESPHome, InfluxDB, and Grafana** during my academic experience in France.
 
 ---
 
-### 📫 Connect with me
-* 📍 Currently in: **Normandy, France** / **Resistencia, Argentina**
-* 🎧 Listening to: **Argentine Rock & Indie**
+## International Experience
+
+🇫🇷 **CESI École d’Ingénieurs — France**
+
+Academic exchange completed in 2026, with coursework and projects related to **Data Science, Artificial Intelligence, IoT, and engineering**.
+
+---
+
+## Currently
+
+📍 Argentina  
+🎓 Finishing Systems Engineering at UTN  
+💼 Working at BIAMAQ  
+📊 Building toward Data Engineering  
+🎧 Probably listening to Argentine rock
