@@ -3,7 +3,7 @@
 **Data Engineer · IT Lead at [BIAMAQ](https://biamaq.com.ar) · Final-year Information Systems Engineering student at UTN**  
 📍 Resistencia, Chaco, Argentina
 
-I lead IT and Systems end to end at an industrial machinery company with 3 branches: infrastructure, data and software. In 2026 I spent a semester at **CESI École d'Ingénieurs** in France through an ARFITEC scholarship.
+I lead IT and Systems end to end at an industrial machinery company with 3 branches: infrastructure, data and software. In 2026 I spent a semester at **CESI École d'Ingénieurs** in France <img src="https://flagcdn.com/20x15/fr.png" alt="France" height="13" /> through an ARFITEC scholarship.
 
 I'm building my career around **Data Engineering**, and I care about what makes a data platform trustworthy: incremental loads, quality checks, tests, traceability and documenting the decisions behind each layer.
 
@@ -19,14 +19,15 @@ I'm building my career around **Data Engineering**, and I care about what makes 
 
 | | Project | What it is | Stack |
 |---|---|---|---|
-| 🎧 | **[Last.fm Data Platform](https://github.com/deadour/lastfm-data-platform)** | End-to-end pipeline over my listening history: incremental ingestion with resumable backfills, Bronze → Silver → Gold layers, MusicBrainz enrichment and a Streamlit dashboard over ~117k events. | Python · Parquet · pytest · Streamlit |
-| 📊 | **BIAMAQ Reports** *(internal, in production)* | Reporting platform for management across 3 branches, on top of the extractors and data warehouse I built from the company's SQL Server ERP. | Python · Pandas · SQL Server · DRF · Celery · Redis · React |
-| 🏗️ | **RENT-OS** *(internal)* | Multi-company equipment rental platform: booking wizard, signed PDF contracts, electronic invoicing, returns and workshop. | DRF (hexagonal) · PostgreSQL · React · Playwright · Docker |
-| 🎓 | **[Chedul](https://chedul.vercel.app)** *(team of 3)* | App that keeps a UTN Systems Engineering degree in one place: academic status, prerequisites map, calendar and shared notes. I built the original Django app and led the migration to Go + React. | Go · React · PostgreSQL · Cloud Run · Vercel |
-| 🏋️ | **[Dynamo](https://github.com/deadour/dynamo)** | Mobile-first app to log workouts, routines, body weight and progress. | DRF · React · TypeScript · PostgreSQL · Docker |
-| 🌿 | **Malaca** *(client project)* | Online store for a herbal blends brand, with WhatsApp checkout and a custom admin panel. | DRF · React · PostgreSQL · Cloudinary · Render |
+| 🎧 | **[Last.fm Data Platform](https://github.com/deadour/lastfm-data-platform)** | End-to-end pipeline over my listening history: incremental ingestion with resumable backfills, Bronze → Silver → Gold layers, MusicBrainz enrichment and a Streamlit dashboard over ~117k events. | <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="18" /> <img src="https://cdn.simpleicons.org/apacheparquet" alt="Parquet" title="Parquet" height="18" /> <img src="https://cdn.simpleicons.org/lastdotfm" alt="Last.fm API" title="Last.fm API" height="18" /> <img src="https://cdn.simpleicons.org/musicbrainz" alt="MusicBrainz" title="MusicBrainz" height="18" /> <img src="https://cdn.simpleicons.org/streamlit" alt="Streamlit" title="Streamlit" height="18" /> <img src="https://cdn.simpleicons.org/pytest" alt="pytest" title="pytest" height="18" /> |
+| 📊 | **BIAMAQ Reports <sub>internal · in production</sub>** | Reporting platform for management across 3 branches, on top of the extractors and data warehouse I built from the company's SQL Server ERP. | <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="18" /> <img src="https://cdn.simpleicons.org/pandas/150458/white" alt="Pandas" title="Pandas" height="18" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" height="18" /> <img src="https://cdn.simpleicons.org/django/092E20/white" alt="Django" title="Django" height="18" /> <img src="https://cdn.simpleicons.org/celery" alt="Celery" title="Celery" height="18" /> <img src="https://cdn.simpleicons.org/redis" alt="Redis" title="Redis" height="18" /> <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="18" /> <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="18" /> |
+| 🏗️ | **RENT-OS <sub>internal</sub>** | Multi-company equipment rental platform: booking wizard, signed PDF contracts, electronic invoicing, returns and workshop. | <img src="https://cdn.simpleicons.org/django/092E20/white" alt="Django" title="Django" height="18" /> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="18" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" height="18" /> <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="18" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" height="18" /> <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="18" /> |
+| 🎓 | **[Chedul](https://chedul.vercel.app) <sub>team of 3</sub>** | Keeps a UTN Systems Engineering degree in one place: academic status, prerequisites map, calendar and shared notes. I built the original Django app and led the migration to Go + React. | <img src="https://cdn.simpleicons.org/go" alt="Go" title="Go" height="18" /> <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="18" /> <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="18" /> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="18" /> <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="18" /> <img src="https://cdn.simpleicons.org/googlecloud" alt="Google Cloud Run" title="Google Cloud Run" height="18" /> <img src="https://cdn.simpleicons.org/vercel/black/white" alt="Vercel" title="Vercel" height="18" /> |
+| 🏋️ | **[Dynamo](https://github.com/deadour/dynamo)** | Mobile-first app to log workouts, routines, body weight and progress. | <img src="https://cdn.simpleicons.org/django/092E20/white" alt="Django" title="Django" height="18" /> <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="18" /> <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="18" /> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="18" /> <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="18" /> <img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" title="GitHub Actions" height="18" /> |
+| 🌿 | **Malaca <sub>client project</sub>** | Online store for a herbal blends brand, with WhatsApp checkout and a custom admin panel. | <img src="https://cdn.simpleicons.org/django/092E20/white" alt="Django" title="Django" height="18" /> <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="18" /> <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="18" /> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="18" /> <img src="https://cdn.simpleicons.org/cloudinary" alt="Cloudinary" title="Cloudinary" height="18" /> <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="18" /> <img src="https://cdn.simpleicons.org/render/black/white" alt="Render" title="Render" height="18" /> |
 
-🇫🇷 **At CESI (France):** deep learning for diabetes prediction with a focus on reducing false negatives (PyTorch, SHAP, FastAPI), and a real-time classroom noise monitor (ESP32, InfluxDB, Grafana).
+<img src="https://flagcdn.com/20x15/fr.png" alt="France" height="13" /> **At CESI:** deep learning for diabetes prediction focused on reducing false negatives, and a real-time classroom noise monitor.
+<img src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch" height="18" /> <img src="https://cdn.simpleicons.org/fastapi" alt="FastAPI" title="FastAPI" height="18" /> <img src="https://cdn.simpleicons.org/espressif" alt="ESP32" title="ESP32" height="18" /> <img src="https://cdn.simpleicons.org/influxdb" alt="InfluxDB" title="InfluxDB" height="18" /> <img src="https://cdn.simpleicons.org/grafana" alt="Grafana" title="Grafana" height="18" />
 
 👉 Screenshots and details of everything above: **[eduramirez.dev](https://eduramirez.dev)**
 
@@ -34,25 +35,12 @@ I'm building my career around **Data Engineering**, and I care about what makes 
 
 ## 🧰 Tech
 
-**Data:** 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Parquet](https://img.shields.io/badge/Parquet-50ABF1?style=flat-square&logo=apacheparquet&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-**Software:** 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-
-**Infra:** 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+<p>
+  <img src="https://cdn.simpleicons.org/python" alt="Python" title="Python" height="34" /> <img src="https://cdn.simpleicons.org/pandas/150458/white" alt="Pandas" title="Pandas" height="34" /> <img src="https://cdn.simpleicons.org/apacheparquet" alt="Parquet" title="Parquet" height="34" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" title="SQL Server" height="34" /> <img src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL" height="34" /> <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI" title="Power BI" height="34" /> <img src="https://cdn.simpleicons.org/grafana" alt="Grafana" title="Grafana" height="34" />
+</p>
+<p>
+  <img src="https://cdn.simpleicons.org/django/092E20/white" alt="Django" title="Django" height="34" /> <img src="https://cdn.simpleicons.org/go" alt="Go" title="Go" height="34" /> <img src="https://cdn.simpleicons.org/typescript" alt="TypeScript" title="TypeScript" height="34" /> <img src="https://cdn.simpleicons.org/react" alt="React" title="React" height="34" /> <img src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker" height="34" /> <img src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux" height="34" /> <img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" title="GitHub Actions" height="34" />
+</p>
 
 ---
 
